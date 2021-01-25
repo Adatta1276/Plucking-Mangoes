@@ -23,14 +23,14 @@ var sling2;
 //loading all the images and sounds
 function preload()
 {
-		boyI=loadImage("images/boy.png");
-		girlI = loadImage("images/girl_image.png");
-		BI = loadImage("images/backgroundImg.png");
-		groundI = loadImage("images/ground.png");
-		jungleI = loadImage("images/jungle.jpg");
-		stoneI = loadImage("images/stone.png");
-		ST2I = loadImage("images/stone2.png");
-		sunI = loadImage("images/sun.png");
+		boyI=loadImage("boy.png");
+		girlI = loadImage("girl_image.png");
+		BI = loadImage("backgroundImg.png");
+		groundI = loadImage("ground.png");
+		jungleI = loadImage("jungle.jpg");
+		stoneI = loadImage("stone.png");
+		ST2I = loadImage("stone2.png");
+		sunI = loadImage("sun.png");
 		//music = loadSound("images/alan walker ignite.mp3");
 }
 
